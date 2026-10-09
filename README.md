@@ -6,7 +6,11 @@ The project focuses on data cleaning, visualization, statistical analysis, and c
 ## Contents
 - **Week 1:** Data Cleaning and Preliminary Analysis  
   - Report: Week1_DataCleaning.docx  
-  - Dataset: RIL-FINAL.xlsx  
+  - Dataset: RIL-FINAL.xlsx
+  - ## Week 2: Data Visualization and Insight Communication
+- Report: Week2_R_analysis.docx  
+- Visualizations: Closing Price Trend, Daily Returns, Histogram, Scatter Plot, Monthly Average, Boxplot  
+- R Script: Week2_Visualization.R  
 
 ## Tools Used
 - R Studio  
